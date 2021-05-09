@@ -14,3 +14,7 @@ Player has access to: castling, selective promotions, en-passent. AI (black) wil
 Created using mini-max algorithm as its basis. 
 
 AI displays in both french and english. 
+
+
+
+Possible improvements for the future: dissolution of one of the two boards. Transition from static array to vector so that the AI can consider the value of the current board state and will avoid moves that are equal in value to it. Implementation of alpha-beta pruning. 
